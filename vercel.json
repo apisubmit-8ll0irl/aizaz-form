@@ -4,15 +4,15 @@
     { "src": "*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/fahad", "dest": "/fahad.js" },
-    { "src": "/zubair", "dest": "/zubair.js" },
-    { "src": "/zubairpass", "dest": "/zubairpass.js" },
-    { "src": "/waris", "dest": "/waris.js" },
+    { "src": "/aizaz", "dest": "/aizaz.js" },
+    { "src": "/haya", "dest": "/haya.js" },
+    { "src": "/hayapass", "dest": "/hayapass.js" },
+    { "src": "/furqan", "dest": "/furqan.js" },
     { "src": "/sheraz", "dest": "/sheraz.js" },
     { "src": "/sherazpass", "dest": "/sherazpass.js" },
     { "src": "/rashid2", "dest": "/rashid2.js" }, 
     { "src": "/rashid2pass", "dest": "/rashid2pass.js" },
-    { "src": "/warispass", "dest": "/warispass.js" },
-    { "src": "/fahadpass", "dest": "/fahadpass.js" }
+    { "src": "/furqanpass", "dest": "/furqanpass.js" },
+    { "src": "/aizazpass", "dest": "/aizazpass.js" }
   ]
 }
